@@ -14,7 +14,8 @@ This is my GitHub profile README
 
 - 🎓 BBA Student at Christ University, Lavasa
 - 📊 Power BI | SQL | Excel | Dashboards
-- 💼 Interned at Aapni Pathshala Sansthan
+- 💼 Interned at AIM India 
+- 💼 Interned at Aapni Pathshala Sansthan (NGO)
 - 📘 Currently learning: DAX, Excel automation, data storytelling
 
 ---
