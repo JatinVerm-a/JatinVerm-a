@@ -1,7 +1,9 @@
 # Jatin-Verma
 This is my GitHub profile README
 
-<img src="https://YOUR-BANNER-URL-HERE" alt="banner" />
+<p align="center">
+  <img src="https://github.com/Jatinverma242004/Jatin-Verma/blob/main/Banner.png" alt="Banner" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Jatin Verma</h1>
 <h3 align="center">BBA Business Analytics | Power BI & SQL Enthusiast | NCC Cadet</h3>
