@@ -34,7 +34,7 @@ This is my GitHub profile README
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jatinverma242004&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JatinVerm-a&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
 
 <p align="center">
