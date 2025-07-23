@@ -44,9 +44,9 @@ This is my GitHub profile README
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jatinverma242004&theme=tokyonight&hide_border=false" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=JatinVerm-a&theme=tokyonight&hide_border=false" alt="streak"/>
 </p>
-
+<img src="https://streak-stats.demolab.com?user=JatinVerm-a&theme=dark" alt="GitHub Streak"/>
 ---
 
 ### 📂 My Projects
