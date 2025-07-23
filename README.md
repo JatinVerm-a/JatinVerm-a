@@ -32,7 +32,8 @@ This is my GitHub profile README
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
-  <img src="https://cdn.logojoy.com/wp-content/uploads/2018/05/30164036/canva-logo.png" alt="Canva" width="40" height="40"/>
+  <img src="<img width="1900" height="1900" alt="image" src="https://github.com/user-attachments/assets/aaf58ac2-8046-4c50-befc-e116045488a7" />
+" alt="Canva" width="40" height="40"/>
 </p>
 
 ---
