@@ -9,7 +9,7 @@ This is my GitHub profile README
 <h3 align="center">BBA Business Analytics | Power BI & SQL Enthusiast | NCC Cadet</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Business+Analytics+Student;SQL+%26+Power+BI+Explorer;Data+Lover+%7C+Lifelong+Learner;&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Business+Analytics;SQL+%26+Power+BI+Explorer;Data+Lover+%7C+Lifelong+Learner;&center=true&width=500&height=50">
 </p>
 
 ---
