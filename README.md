@@ -52,8 +52,7 @@ This is my GitHub profile README
 ### 📂 My Projects
 
 - 🍕 [Pizza Sales Analysis (SQL + Power BI)](https://github.com/Jatinverma242004/pizza-sales-analysis)
-- 📈 Excel Dashboard (coming soon...)
-- 📊 GST Billing System (coming soon...)
+- 📈 [Business Insights: Superstore Sales Analysis](https://github.com/JatinVerm-a/business-analysis-project)
 
 ---
 
